@@ -11,6 +11,15 @@ Una sencilla aplicación de notas creada con **React**, que permite añadir, tac
 - 🔄 Guardado automático en `localStorage`
 - 📊 Contador de tareas pendientes
 
+## 🎆 Imágenes
+
+Pantalla inicial:
+![App funcionando](assets/Inicial.png)
+
+Pantalla con notas:
+![App funcionando](assets/Prueba.png)
+
+
 ---
 
 ## 🚀 Instalación
