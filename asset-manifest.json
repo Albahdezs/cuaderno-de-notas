@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cuaderno-de-notas/static/css/main.d0c4980c.css",
+    "main.js": "/cuaderno-de-notas/static/js/main.c1720bbd.js",
+    "index.html": "/cuaderno-de-notas/index.html",
+    "main.d0c4980c.css.map": "/cuaderno-de-notas/static/css/main.d0c4980c.css.map",
+    "main.c1720bbd.js.map": "/cuaderno-de-notas/static/js/main.c1720bbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0c4980c.css",
+    "static/js/main.c1720bbd.js"
+  ]
+}
