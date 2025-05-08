@@ -2,6 +2,8 @@
 
 Una sencilla aplicación de notas creada con **React**, que permite añadir, tachar, editar y eliminar tareas. Las notas se guardan en el **localStorage** del navegador, por lo que no se pierden al recargar la página.
 
+📝 [Ver aplicación en vivo](https://albahdezs.github.io/cuaderno-de-notas/)
+
 ## ✨ Funcionalidades
 
 - ✅ Añadir tareas
